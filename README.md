@@ -5,7 +5,7 @@
 ### Languages and tools now:
 - Python, Django, wagtail, pandas, pytorch, ...
 - Postgres
-- fish, nvim, coc.nvim, leaderf, gitgutter
+- fish, nvim, coc.nvim, leaderf, gitgutter, snipMate
 
 ### Past
 
