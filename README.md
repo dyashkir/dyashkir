@@ -3,7 +3,7 @@
 - Better described here [Readme driven development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 ### Languages and tools now:
-- Python, Django, wagtail, pandas, pytorch, ...
+- Python, Javascript, React, Django...
 - Postgres
 - fish, nvim, coc.nvim, leaderf, gitgutter, snipMate
 
