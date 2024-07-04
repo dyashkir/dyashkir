@@ -5,7 +5,6 @@
 ### Languages and tools now:
 - Python, Javascript, React, Django...
 - Postgres
-- fish, nvim, coc.nvim, leaderf, gitgutter, snipMate
 
 ### Past
 
