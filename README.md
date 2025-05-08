@@ -1,6 +1,5 @@
-
-## Development philosophy 
-- Better described here [Readme driven development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+### Lead software engineer at Parity
+https://www.paritygo.com
 
 ### Languages and tools now:
 - Python, Javascript, React, Django...
