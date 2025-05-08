@@ -8,4 +8,4 @@
 
 ### Past
 
-C, C++, Objective C, Swift, Javascript, Lua
+C, C++, Objective C, Swift, Lua
